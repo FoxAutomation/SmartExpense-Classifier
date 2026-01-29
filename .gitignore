@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.py[cod]
+*.class
+venv/
+.env
+
+# Data & Secrets
+*.json
+*.pdf
+output/
+data/
+credentials.json
